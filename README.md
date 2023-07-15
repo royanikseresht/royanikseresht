@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roya Nikseresht
-- 👀 I’m interested in coding and trying new things!
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding and trying out new things!
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me +98 912 495 8596
 
 <!---
