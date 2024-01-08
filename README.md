@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Roya Nikseresht
-- 👀 I’m interested in coding and trying out new things!
-- 🌱 I’m currently learning Machine Learning
+### Hi there, I'm Roya Nikseresht! 👋
+
+- 🔭 I'm currently a Computer Science student
+- 🌱 I'm passionate about Machine Learning and AI
+- 💻 I'm interested in open-source projects and collaborative coding
+- 📫 How to reach me: roya.nikseresht01@gmail.com
+
 
 <!---
 royanikseresht/royanikseresht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
