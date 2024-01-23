@@ -4,7 +4,7 @@
 - 🌱 I'm super passionate about Machine Learning and AI
 - 🔍 Currently diving into the world of algorithms, data structures and beyond
 - 💻 I'm interested in open-source projects and collaborative coding
-- 📫 How to reach me: roya.nikseresht01@gmail.com
+- 📫 How to reach me: rn211@student.london.ac.uk
 
 
 <!---
