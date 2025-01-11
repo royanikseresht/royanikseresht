@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Excited to share that I'm a Computer Science student (Artificial Intelligence & Machine Learning Specialization) at University of London with a passion for technology!<br>🌱 I'm super passionate about Machine Learning and AI<br>🔍 Currently diving into the world of algorithms, data structures and beyond<br>💻 I'm interested in open-source projects and collaborative coding<br>📫 How to reach me: rn211@student.london.ac.uk<br>
+🔭 Excited to share that I'm a Computer Science student (Artificial Intelligence & Machine Learning Specialization) at University of London<br>🌱 I'm super passionate about Machine Learning and AI<br>🔍 Currently diving into the world of algorithms, data structures and beyond<br>💻 I'm interested in open-source projects and collaborative coding<br>📫 How to reach me: rn211@student.london.ac.uk<br>
 
 
 ## 🌐 Socials:
