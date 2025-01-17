@@ -2,6 +2,7 @@
 🔭 Excited to share that I'm a Computer Science student (Artificial Intelligence & Machine Learning Specialization) at University of London<br>🌱 I'm super passionate about Machine Learning and AI<br>🔍 Currently diving into the world of algorithms, data structures and beyond<br>💻 I'm interested in open-source projects and collaborative coding<br>📫 How to reach me: rn211@student.london.ac.uk<br>
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/royanikseresht01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/royanikseresht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/royanikseresht) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/RoyaNikseresht) 
 
