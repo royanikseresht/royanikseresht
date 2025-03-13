@@ -3,7 +3,8 @@ Hi there, I'm <a href="https://www.linkedin.com/in/royanikseresht" target="_blan
 </h3>
 
 <h2 align="center">
-🚀 CS Student | AI/ML Innovator | Full-Stack Developer | Tech Enthusiast | Piano Player 🎶
+🚀 CS Student | AI/ML Innovator | Full-Stack Developer | 
+  Tech Enthusiast | Piano Player | 🎶
 </h2> 
 
 I'm an **engineer at heart**, an **AI/ML enthusiast**, and a **problem solver** who loves to build **impactful, cutting-edge applications**. Whether it's **AI-powered productivity tools, browser extensions, full-stack web apps, or mobile experiences**, I thrive on **transforming ideas into reality**. I'm on a mission to **merge AI with real-world solutions** and **push the boundaries of innovation**.
