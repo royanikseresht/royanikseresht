@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/royanikseresht" target="_blan
 
 I'm an **engineer at heart**, an **AI/ML enthusiast**, and a **problem solver** who loves to build **impactful, cutting-edge applications**. Whether it's **AI-powered productivity tools, browser extensions, full-stack web apps, or mobile experiences**, I thrive on **transforming ideas into reality**. I'm on a mission to **merge AI with real-world solutions** and **push the boundaries of innovation**.
 
-### 🤝 Let's Connect:
+### 🤝🏻 Let's Connect:
 <a href="https://www.linkedin.com/in/royanikseresht"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Roya | LinkedIn" width="21px"/></a>
 </br>
 
