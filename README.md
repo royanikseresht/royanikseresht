@@ -12,7 +12,6 @@ I'm an **engineer at heart**, an **AI/ML enthusiast**, and a **problem solver** 
 <a href="https://www.linkedin.com/in/royanikseresht"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Roya | LinkedIn" width="21px"/></a>
 </br>
 
-📫 **Email**: [rn211@student.london.ac.uk](mailto:rn211@student.london.ac.uk)  
 💬 Have an idea? Need tech guidance? Let's talk!
 
 ---
